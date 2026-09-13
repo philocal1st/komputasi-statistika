@@ -14,17 +14,16 @@ Repository ini berisi tugas dan latihan mata kuliah Komputasi Statistika menggun
 
 ## Materi
 
-Beberapa materi yang dikerjakan meliputi:
+Pada tugas ini dilakukan beberapa proses pengolahan data, yaitu:
 
-- Vector
-- Matrix
-- Array
-- Data Frame
-- List
-- Pengolahan data menggunakan `dplyr`
-- Manipulasi dan penyaringan data
-- Pengelompokan data berdasarkan kategori
-- Pengurutan data
+Memanggil dan melihat dataset iris.
+Melihat struktur dan tipe data setiap variabel.
+Menambahkan variabel baru menggunakan mutate() dan ifelse().
+Mengubah nama variabel menggunakan rename().
+Mengambil data berdasarkan kondisi tertentu menggunakan filter().
+Mengecek jumlah dan jenis Species.
+Memisahkan data berdasarkan Species menjadi setosa, versicolor, dan virginica.
+Mengurutkan data berdasarkan Sepal.Width.
 
 ## Dataset
 
